@@ -1,4 +1,4 @@
-# Streamlit 2 - Parte 1
+# Streamlit 2
 
 Desenvolvimento de uma aplicação para avaliação e seleção personalizada associada a dados bancários ([App](https://fq3y3e9uy4olsrze5l44p6.streamlit.app/)). Algumas habilidade e conhecimentos aplicados foram:
 - Compreender o uso de funções do Streamlit como `st.slider`
